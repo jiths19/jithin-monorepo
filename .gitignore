@@ -1,0 +1,9 @@
+.gradle
+**/build/
+!src/**/build/
+.idea
+*.iml
+*.iws
+out/
+/.idea/
+jdk-*/
