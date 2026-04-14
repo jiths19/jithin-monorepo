@@ -20,4 +20,5 @@ dependencies {
     implementation("org.jetbrains.exposed:exposed-core:0.45.0")
     implementation("org.jetbrains.exposed:exposed-jdbc:0.45.0")
     implementation("org.xerial:sqlite-jdbc:3.41.2.2")
+    implementation("ch.qos.logback:logback-classic:1.4.14")
 }
